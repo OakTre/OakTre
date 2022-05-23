@@ -17,4 +17,4 @@
 
 ## CONTACTS
 
-- [TELERGAM]([https://t.me/melentq](https://t.me/jazhope))
+- [TELERGAM](https://t.me/jazhope)
