@@ -1,15 +1,6 @@
 ### Hi there 👋
 
 - Frontend Developer
-- PUG + SCSS + JS + Gulp
-- GSAP Animations
-
-## USING
-- HTML (PUG)
-- CSS (SCSS)
-- JS (ES6)
-- Wordpress
-- Learning React.js
 
 ## STATS
 
